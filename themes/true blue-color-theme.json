@@ -8,7 +8,12 @@
 		"sideBar.background": "#104e8b",
 		"sideBarTitle.foreground": "#104e8b",
 		"sideBar.border": "#556",
-		"statusBar.background": "#3f3f3f"
+		"statusBar.background": "#3f3f3f",
+		"editor.lineHighlightBorder": "#105e99",
+		"editor.selectionBackground": "#007acc",
+		"list.hoverBackground": "#007acc",
+		"list.activeSelectionBackground": "#082f4d",
+		"list.inactiveSelectionBackground": "#082f4d"
 	},
 	"tokenColors": [
 		{
