@@ -1,12 +1,12 @@
 {
-    "name": "vscode-true-blue",
+    "name": "blue",
     "publisher": "eddy1470669",
     "repository": "https://github.com/eddy147/vscode-theme-true-blue",
-    "displayName": "VSCode Blue Background",
-    "description": "Color theme with blue background",
-    "version": "0.0.7",
+    "displayName": "blue",
+    "description": "A true blue color theme",
+    "version": "0.0.5",
     "license": "MIT",
-    "icon": "vscode_theme_total_blue.ico",
+    "icon": "blue.ico",
     "engines": {
         "vscode": "^1.71.0"
     },
@@ -16,7 +16,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "VSCode Blue Background",
+                "label": "true blue",
                 "uiTheme": "vs-dark",
                 "path": "./themes/true blue-color-theme.json"
             }
