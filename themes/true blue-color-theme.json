@@ -2,31 +2,31 @@
     "name": "Toal Blue",
     "type": "dark",
     "colors": {
-        "activityBar.background": "#014881",
-        "badge.foreground": "#fff",
+        "activityBar.background": "#061d34",
+        "badge.foreground": "#0063b2",
         "badge.background": "#0063b2",
         "debugToolBar.background": "#0063b2",
-        "editor.background": "#0063b2",
-        "editor.lineHighlightBorder": "#003575",
+        "editor.background": "#104e8b",
+        "editor.lineHighlightBorder": "#104E83",
         "editorGroup.dropBackground": "#014881",
         "editorGroupHeader.tabsBackground": "#014881",
-        "editorGutter.background": "#0063b2",
+        "editorGutter.background": "#0d3e6f",
         "editorLineNumber.foreground": "#aaa",
         "editorLineNumber.activeForeground": "#ffa",
         "list.activeSelectionBackground": "#012",
-        "list.inactiveSelectionBackground": "#014881",
+        "list.inactiveSelectionBackground": "#104e8b",
         "list.hoverBackground": "#ffffff30",
         "list.highlightForeground": "#bbdaff",
         "peekViewResult.background": "#014881",
-        "progressBar.background": "#bbdaff",
-        "sideBar.background": "#0063b2",
-        "statusBar.background": "#014881",
-        "statusBarItem.remoteBackground": "#014881",
+        "progressBar.background": "#061d34",
+        "sideBar.background": "#0d3e6f",
+        "statusBar.background": "#061d34",
+        "statusBarItem.remoteBackground": "#104E8B",
         "statusBar.noFolderBackground": "#014881",
         "statusBar.debuggingBackground": "#014881",
-        "tab.inactiveBackground": "#014881",
-        "titleBar.activeBackground": "#014881",
-        "tab.lastPinnedBorder": "#014881",
+        "tab.inactiveBackground": "#0d3e6f",
+        "titleBar.activeBackground": "#0d3e6f",
+        "tab.lastPinnedBorder": "#0d3e6f",
     },
     "tokenColors": [
         {
@@ -47,7 +47,7 @@
                 "string constant.other.placeholder"
             ],
             "settings": {
-                "foreground": "#7fff00"
+                "foreground": "#BCD7E6"
             }
         },
         {
@@ -72,7 +72,6 @@
         {
             "name": "Keyword, Storage",
             "scope": [
-                "keyword",
                 "storage.type",
                 "storage.modifier"
             ],
@@ -83,6 +82,7 @@
         {
             "name": "Operator, Misc",
             "scope": [
+                "keyword",
                 "keyword.control",
                 "constant.other.color",
                 "punctuation",
@@ -97,7 +97,7 @@
                 "keyword.other.substitution"
             ],
             "settings": {
-                "foreground": "#ccfff5"
+                "foreground": "#EFD302"
             }
         },
         {
@@ -121,7 +121,7 @@
                 "keyword.other.special-method"
             ],
             "settings": {
-                "foreground": "#fff"
+                "foreground": "#74F604"
             }
         },
         {
