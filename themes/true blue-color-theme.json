@@ -2,6 +2,11 @@
     "name": "Toal Blue",
     "type": "dark",
     "colors": {
+        "input.background": "#024",
+        "input.border": "#036",
+        "editorWidget.background": "#014881",
+        "editorWidget.border": "#036",
+        "editor.selectionBackground": "#994400",
         "activityBar.background": "#061d34",
         "badge.foreground": "#0063b2",
         "badge.background": "#0063b2",
@@ -106,6 +111,15 @@
                 "entity.name.tag",
                 "meta.tag.sgml",
                 "markup.deleted.git_gutter"
+            ],
+            "settings": {
+                "foreground": "#f07178"
+            }
+        },
+        {
+            "name": "Tag",
+            "scope": [
+                "entity.name.tag"
             ],
             "settings": {
                 "foreground": "#f07178"
